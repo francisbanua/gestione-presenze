@@ -12,6 +12,4 @@ To run this application:
 flask --debug run
 ```
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?B71183DF97D7C7E8C911624E78E42CC38E95
-
-https://probable-enigma-v96vvxg9wwg2pg6x-5000.app.github.dev/
+https://prod.liveshare.vsengsaas.visualstudio.com/join?EC7F8FCD14C5FAD45149C8DCDA3EDD3FD0A9
